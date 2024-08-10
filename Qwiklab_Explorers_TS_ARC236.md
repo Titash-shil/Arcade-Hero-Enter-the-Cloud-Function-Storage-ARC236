@@ -39,7 +39,7 @@ while true; do
     break
   else
     echo "Waiting for Cloud Function to be deployed..."
-    echo "In the meantime, subscribe to Quicklab at https://www.youtube.com/@quick_lab."
+    echo "In the meantime, subscribe to QwikLab_Explorers_TS at https://www.youtube.com/@Titashshil."
     sleep 10
   fi
 done
